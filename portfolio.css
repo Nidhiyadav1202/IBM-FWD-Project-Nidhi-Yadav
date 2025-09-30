@@ -107,11 +107,6 @@ body {
   margin-top: 20px;
 }
 
-.about-content img {
-  border-radius: 15px;
-  max-width: 250px;
-}
-
 /* Projects */
 .projects {
   padding: 70px 50px;
@@ -135,12 +130,6 @@ body {
 
 .project-card:hover {
   transform: translateY(-8px);
-}
-
-.project-card img {
-  width: 100%;
-  height: auto;
-  display: block;
 }
 
 .project-card h3 {
@@ -195,3 +184,4 @@ footer {
   padding: 15px 0;
   font-size: 0.9rem;
 }
+
